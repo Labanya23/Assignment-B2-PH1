@@ -266,3 +266,29 @@ main section{
     grid:5px;
 }
 
+footer{
+    max-width:1890px;
+    margin:0 auto;
+    background-color:#01ACFD;
+    margin-top:600px;
+    margin-bottom:100px;
+    margin-left:70px;
+
+}
+.fd{
+    font-weight:700;
+}
+
+.direc{
+    display:flex;
+    gap:30px;
+}
+
+.icon{
+    gap:10px;
+}
+.link{
+    color:white;
+    border:none;
+    text-decoration:none;
+}
