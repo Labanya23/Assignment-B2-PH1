@@ -32,6 +32,7 @@
     margin-left: 70px;
     
     
+    
 }
 .nav-title{
     display:flex;
@@ -103,7 +104,7 @@
     color:white;
     padding:11px 45px;
     border-radius:9px;
-    border:none
+    border:none;
 }
 
 .banner-container{
@@ -138,3 +139,130 @@
     margin-left:70px;
     
 }
+
+main{
+    max-width:1140px;
+    margin:0 auto;
+}
+main section{
+    margin-top:700px;
+    margin-bottom:300px;
+    margin-left:70px;
+
+}
+.section-title{
+    font-size:45px;
+    font-weight:bold;
+    color:#181818;
+}
+
+.Standard-curriculum{
+    display:flex;
+    gap:24px;
+}
+.text-center{
+    text-align:center;
+}
+
+.btn{
+    text-align:center;
+    margin-top:100px;
+    
+}
+.banner-btn3{
+    background-color:orange;
+    font-weight:bold;
+    font-size:25px;
+    color:white;
+    padding:19px 19px;
+    border-radius:100px;
+    border:none;
+    
+}
+
+.curriculum{
+    padding:30px;
+    border-radius:5px;
+    box-shadow:0px 6px 50px 0px rgba(0,0,0,0.06);
+    
+    
+    
+}
+#c1{
+    background-color:#DEF5FF;
+    
+ }
+
+#c2{
+    background-color:#FFF4DC;
+}
+#c3{
+    background-color:#F2E8FF;
+}
+.banner-btn2{
+    text-align:center;
+}
+#b1{
+    color:white;
+    background-color:#64C8FF;
+    font-size:16px;
+    text-align:center;
+}
+#b2{
+    color:white;
+    background-color:#F0AA00;
+    font-size:16px;
+    text-align:center;
+
+}
+#b3{
+    color:white;
+    background-color:#8700FF;
+    font-size:16px;
+    text-align:center;
+
+}
+.Our-Stories{
+    margin-top:20px;
+}
+
+.stories-card{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+}
+.c{
+    
+    width:300px;
+    height:400px;
+    border-radius:5px;
+    margin-bottom:40px;
+    border:1px solid rgba(136,136,136,0.15);
+    box-shadow:rgba(0,0,0,0.15);
+}
+
+.card-heading{
+    font-size:1.7rem;
+    font-weight:500;
+    color:#18191F;
+    margin-bottom:6px;
+    margin:0px;
+}
+
+
+.card{
+    height:400px;
+    display:flex;
+    gap:5px;
+    margin-bottom:5pm;
+}
+.card1{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    grid:5px;
+}
+.card3{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    grid:5px;
+}
+
