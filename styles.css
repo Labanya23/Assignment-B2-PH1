@@ -292,3 +292,14 @@ footer{
     border:none;
     text-decoration:none;
 }
+
+
+@media screen and (max-width:576px){
+    .header-secondary-bg{
+    
+        max-width:80px;
+    }
+    .footer{
+        max-width:80px;
+    }
+}
